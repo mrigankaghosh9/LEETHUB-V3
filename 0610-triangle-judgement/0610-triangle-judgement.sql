@@ -11,3 +11,4 @@ SELECT x, y, z,
            ELSE 'No'
        END AS triangle
 FROM Triangle;
+
